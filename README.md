@@ -1,2 +1,3 @@
 # Project_3
-Project 3 offers two different track options for story telling while using data visualization and data engineering.
+Project overview: For this Data Visualization/Data Engineering project, we are working with our designated group on one of the two different track options provided. 
+
