@@ -9,9 +9,9 @@ For this *Data Visualization/Data Engineering Project*, we are working with our 
 ### Data Visualization Track
 For this track, your group will tell a story using data visualizations. Here are the specific requirements:
 * Your project must include visualizations. The visualizations can be created with:
-* 1.Python
-* 2.JavaScript
-* 3.A Python or JavaScript visualization library not covered in class   
+* 1. Python
+* 2. JavaScript
+* 3. A Python or JavaScript visualization library not covered in class   
 * 
 
 ### Data Engineering Track
