@@ -19,7 +19,7 @@ For this track, your group will tell a story using data visualizations.
 
 ### Some of the code we used for cleaning and creating our visuals:
 
-code for converting CSV to JavaScript
+- code for converting CSV to JavaScript
 `df = pd.read_csv(csv_file)`
 `data = df.to_dict('records')`
 `js_data = f'const data = {json.dumps(data, indent=4)};'`
