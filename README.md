@@ -1,9 +1,12 @@
 # :football: Big10 Football
-For this *Data Visualization/Data Engineering Project*, we are working with our designated group on one of the two different track options provided. Our team decided to tell our story with the *Data Visualization Track*.
+For this project, our team decided to tell the football story with the *Data Visualization Track*.
 
+## Welcome to Big10 Football!
+The Big10 is one of the oldest college athletic conferences in the United States, formed in 1896 by the Universities of Chicago, Illinois, Michigan, Minnesota, and Wisconsin and Purdue and Northwestern universities. The Big10 conference currently includes 18 teams.
+Our Data covers year 2013 to 2022. 2013 was the league's final season as a 12-team conference before Maryland and Rutgers join the Big Ten Conference for the 2014 season. From 2014 to 2022, the league had 14 teams. 
 
+![photo](https://github.com/user-attachments/assets/f9586e6d-4cdc-4bee-af9d-5405ba8c1c7d)
 
-## Instructions for our selection on this project:
 
 ### Data Visualization Track
 For this track, your group will tell a story using data visualizations.
