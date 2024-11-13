@@ -1,5 +1,4 @@
-# Project_3
-## Project Overview: 
+# :football: Big10 Football
 For this *Data Visualization/Data Engineering Project*, we are working with our designated group on one of the two different track options provided. Our team decided to tell our story with the *Data Visualization Track*.
 
 
