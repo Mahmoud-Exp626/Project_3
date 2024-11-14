@@ -41,7 +41,7 @@ Our Data covers year 2013 to 2022. 2013 was the league's final season as a 12-te
 ## :warning: Outlier Data
 Select a university and see blank data? Don't worry! 
 - Rutgers and Maryland were not a part of the Big Ten for 2013
-- Pennsylvania State University was sanctioned for years
+- Pennsylvania State University does not have data for 2020 and 2021 due to a change in how the university reports data, where they transitioned to reporting all campuses as a single entity instead of separately
 
 ## Data Visualization Track and Big Ten Football
 
@@ -70,6 +70,8 @@ Select a university and see blank data? Don't worry!
 - Kaggle: College Football Team Stats Seasons 2013 to 2023
   - https://www.kaggle.com/datasets/jeffgallini/college-football-team-stats-2019
 - ChatGPT for Stadium Information
+- Penn State Not having data for 2020 and 2021
+  - https://knightnewhousedata.org/about-the-data#:~:text=In%20IPEDS%2C%20Pennsylvania%20State%20University,applied%20for%202020%20and%202021.
 
 
 <ins>REFERENCES FOR HELP WITH CODE</ins>
