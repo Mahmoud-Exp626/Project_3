@@ -1,0 +1,13 @@
+
+#table-metadata .table {
+    width: 100%; /* Ensures the table stretches full width of its container */
+    margin: auto; /* Center the table on the page */
+    font-size: 14px; /* Smaller font size for text in the table */
+}
+
+#table-metadata th, #table-metadata td {
+    padding: 3px 2px; /* Reduces cell padding for a more compact look */
+    border: 1px solid #ccc; /* Light, unobtrusive borders */
+    text-align: center; /* Centers text horizontally */
+    vertical-align: middle; /* Centers text vertically */
+}
