@@ -9,8 +9,7 @@ Our Data covers year 2013 to 2022. 2013 was the league's final season as a 12-te
 
 ## :question: Big Ten Football Questions
 - Is the data sufficient to answer our questions?
-- Is there a correlation between head coach salary and football game win/loss?
-- Does the school size impact season success?
+- Is there a correlation between Revenue & Expenses and football game Win/Loss?
 - Are there any outliers to consider?
 - Does success of previous years/seasons impact the number of applications for the following academic year?
 
@@ -43,7 +42,7 @@ Select a university and see blank data? Don't worry!
 - Rutgers and Maryland were not a part of the Big Ten for 2013
 - Pennsylvania State University does not have data for 2020 and 2021 due to a change in how the university reports data, where they transitioned to reporting all campuses as a single entity instead of separately
 
-## Data Visualization Track and Big Ten Football
+## :pencil2: Data Visualization Track and Big Ten Football
 
 * Visualizations created with JavaScript
 * Data stored in and extracted from PostgreSQL
@@ -51,7 +50,7 @@ Select a university and see blank data? Don't worry!
 * User-driven interactions with dropdowns and text boxes to display JavaScript-powered visualizations
 
 
-## Sample Code
+## :desktop_computer: Sample Code
 
 **Some of the code we used for cleaning and creating our visuals:**
 
@@ -63,13 +62,18 @@ Select a university and see blank data? Don't worry!
         f.write(js_data)
 `
 
+## :heart: Ethical Considerations
+Ethical considerations in this code include ensuring data privacy and security by handling sensitive financial and university data responsibly. It is important to present accurate and fair information, avoiding misleading interpretations of team performance or financial data, and ensuring the visualizations reflect real data context. The code should adhere to accessibility standards, making the visualizations usable for individuals with disabilities, such as providing color choices that are friendly for color-blind users. Additionally, transparency is key, with clear communication of data sources, while ensuring the data is used responsibly and not for harmful purposes. By adhering to these principles, the code promotes inclusive, ethical, and responsible data practices.
+
+
+## :computer: Sources, References and Contributions
 
 <ins>DATA SOURCES</ins> 
 - U.S. Department of Education, Equity in Athletics analysis
   - https://ope.ed.gov/athletics/#/customdata/search
 - Kaggle: College Football Team Stats Seasons 2013 to 2023
   - https://www.kaggle.com/datasets/jeffgallini/college-football-team-stats-2019
-- ChatGPT for Stadium Information
+- ChatGPT for Stadium Information and Ethical considerations
 - Penn State Not having data for 2020 and 2021
   - https://knightnewhousedata.org/about-the-data#:~:text=In%20IPEDS%2C%20Pennsylvania%20State%20University,applied%20for%202020%20and%202021.
 
@@ -77,4 +81,34 @@ Select a university and see blank data? Don't worry!
 <ins>REFERENCES FOR HELP WITH CODE</ins>
 - Tutors
 - ChatGPT
+
+<ins>TEAM CONTRIBUTIONS</ins>
+- Gerald
+  - Helped clean data
+  - Went over Financial data
+  - Helped locate data sources
+  - Contributed to code
+- May
+  - Helped clean data
+  - Helped locate data sources
+  - Created PowerPoint presentation
+  - Contributed to code
+- Mahmoud
+  - Helped clean data
+  - Helped locate data sources
+  - Contributed to code and presentation
+  - Organized meetings
+- Tobe
+  - Helped clean data
+  - Helped locate data sources
+  - Contributed to code, including creating an interactive map that wasn't used in presentation
+- Katherine
+  - Helped clean data
+  - Helped locate data sources
+  - Contributed to code and presentation
+  - Created ReadMe file
+ - Jake
+   - Helped clean data
+   - Helped locate data sources
+   - Main contributer to code
 
